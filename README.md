@@ -6,3 +6,6 @@ Aula 04 - Operadores<br>
 Aula 05/06 - Operadores relacionais<br>
 Aula 07 - And, or, not<br>
 Aula 08 - Apronfundamento em operadores<br>
+Aula 09 - Pré-incremento e Pós-Incremento<br>
+Aula 10 - Operador Ternário<br>
+Aula 11 - Operador TypeOf<br>
