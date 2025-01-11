@@ -14,3 +14,7 @@ Aula 13 - Condicional (If e else)<br>
 Aula 14 - Switch case <br>
 Aula 15 - Conceito de loop (FOR)<br>
 Aula 16 - Apronfudamento de loop FOR IN e FOR OF<br>
+Aula 17 - Loop While<br>
+Aula 18 - Loop Do While<br>
+Aula 19 - Break e Continue<br>
+Aula 20 - Introdução de funções<br>
