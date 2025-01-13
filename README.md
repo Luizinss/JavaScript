@@ -18,3 +18,8 @@ Aula 17 - Loop While<br>
 Aula 18 - Loop Do While<br>
 Aula 19 - Break e Continue<br>
 Aula 20 - Introdução de funções<br>
+Aula 21 - Funções com retorno<br>
+Aula 22 - Funções Parametrizadas<br>
+Aula 23 - Funções Parametrizadas com REST<br>
+Aula 24 - Funções Anônimas<br>
+Aula 25 - Arrow Function<br>
