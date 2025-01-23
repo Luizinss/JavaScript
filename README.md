@@ -23,3 +23,8 @@ Aula 22 - Funções Parametrizadas<br>
 Aula 23 - Funções Parametrizadas com REST<br>
 Aula 24 - Funções Anônimas<br>
 Aula 25 - Arrow Function<br>
+Aula 26 - Funções aninhadas(Função dentro de outra função)<br>
+Aula 27 - Funções geradoras<br>
+Aula 28 - Método Map<br>
+Aula 29 - Operador THIS dentro das funções<br>
+Aula 30 - Método getElementById<br>
