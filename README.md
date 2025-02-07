@@ -28,3 +28,12 @@ Aula 27 - Funções geradoras<br>
 Aula 28 - Método Map<br>
 Aula 29 - Operador THIS dentro das funções<br>
 Aula 30 - Método getElementById<br>
+Aula 31 - Método getElementByTagName<br>
+Aula 32 - Método getElementByClassName<br>
+Aula 33 - Método querySelector querySelectiorAll<br>
+Aula 34 - Adicionando eventos com addEventListener<br>
+Aula 35 - Praticando sobre addEventListener<br>
+Aula 36/37 - Praticando sobre addEventListener e Parando a propagação do evento com o método stopPropagation<br>
+Aula 38 - Entendendo a relação dos elementos no DOM em Javascript<br>
+Aula 39 - Entendendo a relação dos elementos no DOM em Javascript #P2<br>
+Aula 40 - Criando novos elementos e adicionando no DOM em Javascript<br>
